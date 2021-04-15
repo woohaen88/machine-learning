@@ -1,0 +1,8 @@
+.gitignore
+config.json
+configuration.py
+data_insert.ipynb
+__pycache__/
+Python-and-Spark-for-Big-Data-master/
+.git/
+.ipynb_checkpoints/
