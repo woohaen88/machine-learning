@@ -6,3 +6,13 @@ __pycache__/
 Python-and-Spark-for-Big-Data-master/
 .git/
 .ipynb_checkpoints/
+Jupyter_Notebooks_and_Datasets_AS/
+.vscode/
+data_insert.py
+err_csv/
+spark/Logistic_Regression/scratch.ipynb
+spark/Essential/Untitled.ipynb
+spark/Linear_Regression/log_reg.py
+spark/Logistic_Regression/logic_reg.ipynb
+spark/Logistic_Regression/Logistic_regression_test.py
+spark/Essential/aggregating_dataframe_in_pyspark.py
